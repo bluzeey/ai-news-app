@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/bluzeey/ai-news-app">
-    <img src="public/alan.jpg" alt="Logo" width="80" height="80">
+    <img src="public/alan.jpg" alt="Logo" width="100" height="80">
   </a>
 
 <h3 align="center">Alan AI News</h3>
@@ -141,3 +141,8 @@ Project Link: [Alan AI News](https://ai-powered-news-react.netlify.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+[license-shield]: https://img.shields.io/github/license/bluzeey/whatsapp-clone.svg?style=for-the-badge
+[license-url]: https://github.com/bluzeey/whatsapp-clone/blob/main/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/sahil-maheshwari
+[product-screenshot]: public/alanNews.PNG
